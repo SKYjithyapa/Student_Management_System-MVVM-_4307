@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYFREgNCh/5RbbqdobfoHlb7cqaMJJUY+myOwNzELfT+EbZkHtuJCxHJAfTEuNsuDzdBgjv4LVEhY9SnKVaXrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syapa\\OneDrive\\Desktop\\projects\\Student_Management_System(MVVM)_4307\\Student_Management_System(MVVM)\\Student_Management_System(MVVM).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syapa\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
